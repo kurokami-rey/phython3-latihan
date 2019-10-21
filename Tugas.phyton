@@ -1,0 +1,7 @@
+_a  = "rey"
+print("hello",_a,"sekarang kamu sudah")
+_c =int(input("umur: "))
+if _c>=17:
+	print("kamu sudah dewasa")
+else:
+	print("kamu belum dewasa")
